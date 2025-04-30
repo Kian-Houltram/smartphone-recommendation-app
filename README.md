@@ -29,6 +29,7 @@ A responsive smartphone recommendation web application built using PHP and objec
 - Google-Fonts-Poppins - used as the primary font
 - Smartphone logo - 'deemakdaksina' on flaticon.com.
 
-## Screenshots
-![Index Page](index-Page.png)
+---
 
+## Screenshots
+![Index Page](Index-Page.png)
