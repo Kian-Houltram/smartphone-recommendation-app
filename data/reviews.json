@@ -1,0 +1,44 @@
+[
+    {
+        "username": "KHoultram",
+        "rating": 6,
+        "comment": "d",
+        "phone_id": 1
+    },
+    {
+        "username": "KHoultram",
+        "rating": 10,
+        "comment": "good",
+        "phone_id": 2
+    },
+    {
+        "username": "KHoultram",
+        "rating": 0,
+        "comment": "bad",
+        "phone_id": 2
+    },
+    {
+        "username": "KH",
+        "rating": 3,
+        "comment": "R",
+        "phone_id": 1
+    },
+    {
+        "username": "KH",
+        "rating": 3,
+        "comment": "RT",
+        "phone_id": 1
+    },
+    {
+        "username": "KH",
+        "rating": 1,
+        "comment": "T",
+        "phone_id": 1
+    },
+    {
+        "username": "KH",
+        "rating": 5,
+        "comment": "R",
+        "phone_id": 1
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "username": "test1",
+        "firstName": "test",
+        "surname": "test",
+        "email": "test@gmail.com",
+        "password": "$2y$10$GYXluES4EMw90q4Exzvs1.p\/5S1VLRoigRWDArv35C\/c5aXpd6mJO",
+        "favourite": "4"
+    },
+    {
+        "username": "KHoultram",
+        "firstName": "Kian",
+        "surname": "Houltram",
+        "email": "KH@gmail.com",
+        "password": "$2y$10$F6cUEP5ll3yJnMbQ3wfDTup7gHB0YenOjSAWBtUmYqakw1gMEXURi",
+        "favourite": "1"
+    },
+    {
+        "username": "KH",
+        "firstName": "D",
+        "surname": "D",
+        "email": "D",
+        "password": "$2y$10$F.xei9wFrPO4kdCRu7nPEev8l62aJYKHUWnAo1nFXucNx2Vmpy7xK",
+        "favourite": null
+    }
+]

@@ -1,0 +1,119 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f7fa;
+    font-family: 'Poppins', 'Segoe UI', sans-serif;
+}
+
+/* Ensures main content grows to fill space and footer stays at the bottom */
+main {
+    flex: 1;
+}
+
+/* Footer styling */
+footer {
+    background-color: #212529;
+    color: white;
+}
+
+/* Navigation logo and text styles */
+.navbar-brand {
+    color: #f8f9fa;
+}
+
+.navbar-nav {
+    align-items: center;
+}
+
+.navbar-brand img {
+    background-color: white;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+/* Nav link text colour */
+.nav-link {
+    color: #f8f9fa;
+}
+
+/* Card hover animation for smoother design */
+.phone-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+  
+.carousel-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+  
+.carousel-track {
+    display: flex;
+    transition: transform 0.5s ease;
+    gap: 1.5rem;
+}
+  
+/* Styling for each smartphone card */
+.phone-card {
+    flex: 0 0 calc((100% - 3rem) / 3);
+    max-width: calc((100% - 3rem) / 3);
+    box-sizing: border-box;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+  
+/* Ensures that the smartphone images fit within the card dimensions */
+.card-img-top {
+    height: 250px;
+    object-fit: contain;
+  }
+  
+.phone-description {
+    flex: 0 0 25%;
+    padding-left: 1rem;
+  }
+  
+/* Arrows for carousel navigation */
+.carousel-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    z-index: 10;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.3s ease;
+  }
+  
+.carousel-btn.left {
+    left: 10px;
+  }
+  
+.carousel-btn.right {
+    right: 10px;
+  }
+  
+.carousel-btn:hover {
+    background-color: rgba(0, 123, 255, 0.8);
+  }
+
+/* Site summary box on index page */
+.site-description {
+    background-color: #ffffff;
+    border: 1px solid #dee2e6;
+    padding: 1rem 1.25rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}

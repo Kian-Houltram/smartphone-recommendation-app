@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "Model": "Iphone 16",
+        "Manufacturer": "Apple",
+        "Screen_Size": "6.1 inches",
+        "Dimensions": "71.6mm x 147.6mm x 7.8mm",
+        "Weight": "170 grams",
+        "Release_Date": "September 2024",
+        "OS": "IOS",
+        "Score": 9,
+        "Description": "A lightweight but powerful smartphone.",
+        "Image": "iphone16.png"
+    },
+
+    {
+        "id": 2,
+        "Model": "Pixel 9",
+        "Manufacturer": "Google",
+        "Screen_Size": "6.3 inches",
+        "Dimensions": "72mm x 152.8mm x 8.5mm",
+        "Weight": "198 grams",
+        "Release_Date": "August 2024",
+        "OS": "Android",
+        "Score": 9.2,
+        "Description": "A sleek design combined with superb performance.",
+        "Image": "pixel9.jpg"
+    },
+
+    {
+        "id": 3,
+        "Model": "Galaxy S25",
+        "Manufacturer": "Samsung",
+        "Screen_Size": "6.2 inches",
+        "Dimensions": "70.5mm x 146.9mm x 7.2mm",
+        "Weight": "162 grams",
+        "Release_Date": "February 2025",
+        "OS": "Android",
+        "Score": 9.1,
+        "Description": "Fast, powerful and stunning, a great upgrade option.",
+        "Image": "galaxyS25.jpg"
+    },
+
+    {
+        "id": 4,
+        "Model": "Iphone 16 Pro Max",
+        "Manufacturer": "Apple",
+        "Screen_Size": "6.9 inches",
+        "Dimensions": "77.6mm x 163mm x 8.25mm",
+        "Weight": "227 grams",
+        "Release_Date": "September 2024",
+        "OS": "IOS",
+        "Score": 9.8,
+        "Description": "Big display, more powerful than any other model and a great camera.",
+        "Image": "iphone16ProMax.jpg"
+    }
+]
