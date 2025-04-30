@@ -33,3 +33,5 @@ A responsive smartphone recommendation web application built using PHP and objec
 
 ## Screenshots
 ![Index Page](Index-Page.png)
+![Smartphone Page](Smartphone-Page.png)
+![Rankings Page](Rankings-Page.png)
